@@ -34,7 +34,7 @@
 
 **Example :**
 
-<img width="338" alt="image" src="https://github.com/user-attachments/assets/8e01bda5-2d50-4a17-9e68-37a047ca17f8" />
+![image](https://github.com/user-attachments/assets/498b8a3e-2c73-4dfd-973f-5e0f234d5715)
 
 
 **Factory Method Pattern**
@@ -54,11 +54,12 @@
 
 **Example :**
 
-<img width="338" alt="image" src="https://github.com/user-attachments/assets/66eb80e9-c231-481a-b881-a3e9d31d8022" />
+![image](https://github.com/user-attachments/assets/5bf18c9a-cdb7-4dcc-9067-ccaea6b0345c)
 
 
 
 **Uml Diagram:**
 
-![image](https://github.com/user-attachments/assets/ac0be2e8-2728-4716-8064-28074694f122)
+![image](https://github.com/user-attachments/assets/47e96636-da26-45d2-82e1-9148ba1fb19b)
+
 
